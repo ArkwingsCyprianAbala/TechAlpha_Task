@@ -1,1 +1,1 @@
-This is my expense tracker created in python
+An expense tracking python application in python
